@@ -1,0 +1,36 @@
+.stopwatch-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .stopwatch-time {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .stopwatch-buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .stopwatch-button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #333;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .stopwatch-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .stopwatch-button.active {
+    background-color: #333;
+    color: #fff;
+  }
+  
