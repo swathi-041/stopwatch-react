@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swathi-041/stopwatch-react/static/css/main.6c1c869c.css",
+    "main.js": "/swathi-041/stopwatch-react/static/js/main.644bbecd.js",
+    "static/js/453.bead9516.chunk.js": "/swathi-041/stopwatch-react/static/js/453.bead9516.chunk.js",
+    "index.html": "/swathi-041/stopwatch-react/index.html",
+    "main.6c1c869c.css.map": "/swathi-041/stopwatch-react/static/css/main.6c1c869c.css.map",
+    "main.644bbecd.js.map": "/swathi-041/stopwatch-react/static/js/main.644bbecd.js.map",
+    "453.bead9516.chunk.js.map": "/swathi-041/stopwatch-react/static/js/453.bead9516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1c869c.css",
+    "static/js/main.644bbecd.js"
+  ]
+}
